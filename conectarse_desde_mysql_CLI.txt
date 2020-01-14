@@ -1,0 +1,1 @@
+mysql -h bs53s0vmutttanb1ljmk-mysql.services.clever-cloud.com -P 3306 -u umj4bcfo9gqtdoou -p bs53s0vmutttanb1ljmk

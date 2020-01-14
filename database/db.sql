@@ -15,14 +15,14 @@ CREATE TABLE users (
 
 
 ALTER TABLE USERS ADD PRIMARY KEY (id);
-
---ALTER TABLE users 
-  --          MODIFY id int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT = 2;
-
+/*
+ALTER TABLE users 
+          MODIFY id int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT = 2;
+*/
 --describe USERS;
 
 
------ TABLA LINKS
+-------------------- TABLA LINKS --------------------------------------
 
 CREATE TABLE links (
 
@@ -36,7 +36,7 @@ CREATE TABLE links (
 );
 
 alter table links add primary key (id);
-
---ALTER TABLE links 
-   -- MODIFY id INT(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT = 2;
-
+/*
+ALTER TABLE links 
+    MODIFY id INT(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT = 2;
+*/
